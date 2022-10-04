@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestChallenge/1.0.0": {
+        "dependencies": {
+          "CommonCodeProject": "1.0.0",
+          "SoccerLeagueProject": "1.0.0",
+          "WeatherDataProject": "1.0.0"
+        },
+        "runtime": {
+          "TestChallenge.dll": {}
+        }
+      },
+      "CommonCodeProject/1.0.0": {
+        "runtime": {
+          "CommonCodeProject.dll": {}
+        }
+      },
+      "SoccerLeagueProject/1.0.0": {
+        "dependencies": {
+          "CommonCodeProject": "1.0.0"
+        },
+        "runtime": {
+          "SoccerLeagueProject.dll": {}
+        }
+      },
+      "WeatherDataProject/1.0.0": {
+        "dependencies": {
+          "CommonCodeProject": "1.0.0"
+        },
+        "runtime": {
+          "WeatherDataProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonCodeProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoccerLeagueProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherDataProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
