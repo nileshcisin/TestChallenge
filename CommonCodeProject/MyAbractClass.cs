@@ -18,9 +18,7 @@ namespace CommonCodeProject
     public abstract class MyAbractClass
     {
         public string DataFilePath;
-
-
-
+         
         public abstract List<Entity> GetData();
 
         public Entity GetAbsoluteDifferenceEntity(List<Entity> ListofEntity)

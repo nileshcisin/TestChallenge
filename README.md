@@ -1,2 +1,4 @@
 # TestChallenge
-To check please set startup to each project and then run.
+To check 
+1. please first update dat file path in each project program.cs file 
+2. you can set startup to each project and to test saperatly.

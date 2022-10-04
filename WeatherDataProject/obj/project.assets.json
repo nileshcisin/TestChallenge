@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\WeatherDataProject\\WeatherDataProject.csproj",
+      "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\WeatherDataProject\\WeatherDataProject.csproj",
       "projectName": "WeatherDataProject",
-      "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\WeatherDataProject\\WeatherDataProject.csproj",
+      "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\WeatherDataProject\\WeatherDataProject.csproj",
       "packagesPath": "C:\\Users\\cis\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\WeatherDataProject\\obj\\",
+      "outputPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\WeatherDataProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -61,8 +61,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj": {
-              "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj"
+            "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj": {
+              "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\TestChallenge\\TestChallenge.csproj": {}
+    "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\TestChallenge\\TestChallenge.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj": {
+    "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj",
+        "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj",
         "projectName": "CommonCodeProject",
-        "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj",
+        "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj",
         "packagesPath": "C:\\Users\\cis\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\obj\\",
+        "outputPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\SoccerLeagueProject\\SoccerLeagueProject.csproj": {
+    "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\SoccerLeagueProject\\SoccerLeagueProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\SoccerLeagueProject\\SoccerLeagueProject.csproj",
+        "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\SoccerLeagueProject\\SoccerLeagueProject.csproj",
         "projectName": "SoccerLeagueProject",
-        "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\SoccerLeagueProject\\SoccerLeagueProject.csproj",
+        "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\SoccerLeagueProject\\SoccerLeagueProject.csproj",
         "packagesPath": "C:\\Users\\cis\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\SoccerLeagueProject\\obj\\",
+        "outputPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\SoccerLeagueProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj": {
-                "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj"
+              "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj": {
+                "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\TestChallenge\\TestChallenge.csproj": {
+    "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\TestChallenge\\TestChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\TestChallenge\\TestChallenge.csproj",
+        "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\TestChallenge\\TestChallenge.csproj",
         "projectName": "TestChallenge",
-        "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\TestChallenge\\TestChallenge.csproj",
+        "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\TestChallenge\\TestChallenge.csproj",
         "packagesPath": "C:\\Users\\cis\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\TestChallenge\\obj\\",
+        "outputPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\TestChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -160,14 +160,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj": {
-                "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj"
+              "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj": {
+                "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj"
               },
-              "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\SoccerLeagueProject\\SoccerLeagueProject.csproj": {
-                "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\SoccerLeagueProject\\SoccerLeagueProject.csproj"
+              "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\SoccerLeagueProject\\SoccerLeagueProject.csproj": {
+                "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\SoccerLeagueProject\\SoccerLeagueProject.csproj"
               },
-              "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\WeatherDataProject\\WeatherDataProject.csproj": {
-                "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\WeatherDataProject\\WeatherDataProject.csproj"
+              "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\WeatherDataProject\\WeatherDataProject.csproj": {
+                "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\WeatherDataProject\\WeatherDataProject.csproj"
               }
             }
           }
@@ -201,14 +201,14 @@
         }
       }
     },
-    "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\WeatherDataProject\\WeatherDataProject.csproj": {
+    "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\WeatherDataProject\\WeatherDataProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\WeatherDataProject\\WeatherDataProject.csproj",
+        "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\WeatherDataProject\\WeatherDataProject.csproj",
         "projectName": "WeatherDataProject",
-        "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\WeatherDataProject\\WeatherDataProject.csproj",
+        "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\WeatherDataProject\\WeatherDataProject.csproj",
         "packagesPath": "C:\\Users\\cis\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\WeatherDataProject\\obj\\",
+        "outputPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\WeatherDataProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -231,8 +231,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj": {
-                "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj"
+              "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj": {
+                "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj"
               }
             }
           }

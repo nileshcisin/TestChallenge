@@ -16,3 +16,21 @@ D:\Projects\9 Estimation\0 Sep 2022\TestChallengeData Munging\WeatherDataProject
 D:\Projects\9 Estimation\0 Sep 2022\TestChallengeData Munging\WeatherDataProject\bin\Debug\net6.0\CommonCodeProject.dll
 D:\Projects\9 Estimation\0 Sep 2022\TestChallengeData Munging\WeatherDataProject\bin\Debug\net6.0\CommonCodeProject.pdb
 D:\Projects\9 Estimation\0 Sep 2022\TestChallengeData Munging\WeatherDataProject\obj\Debug\net6.0\WeatherDataProject.csproj.CopyComplete
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\bin\Debug\net6.0\WeatherDataProject.exe
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\bin\Debug\net6.0\WeatherDataProject.deps.json
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\bin\Debug\net6.0\WeatherDataProject.runtimeconfig.json
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\bin\Debug\net6.0\WeatherDataProject.dll
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\bin\Debug\net6.0\WeatherDataProject.pdb
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\bin\Debug\net6.0\CommonCodeProject.dll
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\bin\Debug\net6.0\CommonCodeProject.pdb
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\WeatherDataProject.csproj.AssemblyReference.cache
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\WeatherDataProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\WeatherDataProject.AssemblyInfoInputs.cache
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\WeatherDataProject.AssemblyInfo.cs
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\WeatherDataProject.csproj.CoreCompileInputs.cache
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\WeatherDataProject.csproj.CopyComplete
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\WeatherDataProject.dll
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\refint\WeatherDataProject.dll
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\WeatherDataProject.pdb
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\WeatherDataProject.genruntimeconfig.cache
+D:\Projects\9 Estimation\0 Oct 2022\Raghu\TestChallenge\WeatherDataProject\obj\Debug\net6.0\ref\WeatherDataProject.dll

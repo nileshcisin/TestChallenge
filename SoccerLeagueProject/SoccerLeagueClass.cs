@@ -10,9 +10,17 @@ namespace SoccerLeagueProject
     public class SoccerLeagueClass : MyAbractClass
     {
 
-        public SoccerLeagueClass(string FilePath)
+        public SoccerLeagueClass(string soccerLeague_filepath)
         {
-            DataFilePath = FilePath;              
+             
+            if (!System.IO.File.Exists(soccerLeague_filepath))
+            {
+                throw new Exception(soccerLeague_filepath + " file not found. please correct the path");
+            }
+            else
+            {
+                DataFilePath = soccerLeague_filepath;
+            }
         }
 
         public override List<Entity> GetData()

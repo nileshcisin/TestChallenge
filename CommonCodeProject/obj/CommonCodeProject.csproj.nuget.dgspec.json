@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj": {}
+    "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj": {
+    "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj",
+        "projectUniqueName": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj",
         "projectName": "CommonCodeProject",
-        "projectPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\CommonCodeProject.csproj",
+        "projectPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\CommonCodeProject.csproj",
         "packagesPath": "C:\\Users\\cis\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\9 Estimation\\0 Sep 2022\\TestChallengeData Munging\\CommonCodeProject\\obj\\",
+        "outputPath": "D:\\Projects\\9 Estimation\\0 Oct 2022\\Raghu\\TestChallenge\\CommonCodeProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
